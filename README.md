@@ -239,7 +239,7 @@ dev_dependencies:
 ### 🔧 Installation
 1. **Cloner le projet**
 ```bash
-git clone [URL_DU_PROJET]
+git clone https://github.com/mamadousy92i/Application-mobile-de-Meteo-.git
 cd weather_app
 ```
 
