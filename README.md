@@ -259,7 +259,7 @@ flutter packages pub run build_runner build
    - Pour production, obtenez votre propre clé sur [OpenWeatherMap](https://openweathermap.org/api)
    - Modifiez si nécessaire dans `lib/services/real_weather_service.dart` :
    ```dart
-   static const String _apiKey = '4b593112a5b07b5fff0c7f2be4a320ff';
+   static const String _apiKey = 'XXXXXXXXXXXXXXXXXXXXXXXXXX';
    ```
 
 5. **Logo de l'application**
